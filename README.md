@@ -65,8 +65,17 @@
 <div align="center">
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Gnaneshwar5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  ### 🔥 Activity Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Gnaneshwar5&theme=github-dark&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Gnaneshwar5&theme=minimal&area=true&hide_border=true">
+  <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Gnaneshwar5&theme=minimal&area=true&hide_border=true">
+</picture>
   
 ###
+
+
 
 <!-- Pac-Man Contribution Graph -->
 <picture>
