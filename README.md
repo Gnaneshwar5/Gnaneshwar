@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/gnaneshwar-asokan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:gnaneshwarasokan@example.com">
+  <a href="mailto:gnaneshwarasokan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
